@@ -29,12 +29,15 @@ export class Currency {
 
   public static readonly HT: Currency = new Currency(18, 'HT', 'Heco Token')
 
+  public static readonly CN: Currency = new Currency(18, '1CN', '1COIN')
+
   public static readonly ONE: Currency = new Currency(18, 'ONE', 'Harmony')
 
   public static readonly OKT: Currency = new Currency(18, 'OKT', 'OKExChain')
 
   public static readonly NATIVE = {
     [ChainId.MAINNET]: Currency.ETHER,
+    [ChainId.COINNET]: Currency.CN,
     [ChainId.ROPSTEN]: Currency.ETHER,
     [ChainId.RINKEBY]: Currency.ETHER,
     [ChainId.GÖRLI]: Currency.ETHER,

@@ -66,6 +66,13 @@ export const WETH = {
     'WETH',
     'Wrapped Ether'
   ),
+  [ChainId.COINNET]: new Token(
+    ChainId.COINNET,
+    '0x1286cA682F5458f2E90D0b17DC80F9568998D76D',
+    18,
+    'WETH',
+    'Wrapped Ether'
+  ),
   [ChainId.ROPSTEN]: new Token(
     ChainId.ROPSTEN,
     '0xc778417E063141139Fce010982780140Aa0cD5Ab',

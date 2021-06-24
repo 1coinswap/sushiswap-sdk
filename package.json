@@ -1,14 +1,14 @@
 {
-  "name": "@sushiswap/sdk",
+  "name": "@1coinswap/sdk",
   "license": "MIT",
-  "version": "5.0.0-canary.7",
+  "version": "6.0.0",
   "description": "🛠 An SDK for building applications on top of Sushiswap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/sushiswap/sushiswap-sdk",
+  "repository": "https://github.com/1coinswap/sushiswap-sdk",
   "keywords": [
     "uniswap",
     "sushiswap",

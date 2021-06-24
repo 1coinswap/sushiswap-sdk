@@ -1,7 +1,7 @@
 {
   "name": "@1coinswap/sdk",
   "license": "MIT",
-  "version": "6.0.2",
+  "version": "6.0.3",
   "description": "🛠 An SDK for building applications on top of Sushiswap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",

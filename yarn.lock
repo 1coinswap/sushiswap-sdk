@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@1coinnetwork/core@^2.0.3":
-  version "2.0.3"
-  resolved "https://registry.yarnpkg.com/@1coinnetwork/core/-/core-2.0.3.tgz#9c27bfce408f663a9ded6f41ac5fee014fa50c34"
-  integrity sha512-o0KLG3q36iq/orXcheIw322R15dkCpwLDvBe1jsRyQFEYNze+sZxAbc0dzHV2pEP+epjmqsiyJDX6dsXxeKvdg==
+"@1coinnetwork/core@^2.1.0":
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/@1coinnetwork/core/-/core-2.1.0.tgz#70e5bdc16c8700b3529f74752d5ddae0ef309b41"
+  integrity sha512-eJd3dI8UtQH7+cRJmoZ20A7psdY1E4Y1F6YBAaJoDjqxJ2QKNFaIZPSsdbu8FWwFg6hknp0Tn/yDnI37QaAVsQ==
 
 "@babel/code-frame@^7.0.0", "@babel/code-frame@^7.14.5", "@babel/code-frame@^7.5.5":
   version "7.14.5"

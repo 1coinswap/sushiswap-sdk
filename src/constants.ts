@@ -62,7 +62,7 @@ export const FACTORY_ADDRESS: { [chainId in ChainId]: string } = {
   [ChainId.FUJI]: '',
   [ChainId.HECO]: '',
   [ChainId.HECO_TESTNET]: '',
-  [ChainId.HARMONY]: '',
+  [ChainId.HARMONY]: '0xeB12D6937D8Afd2E38b5A4DBf01258Bbe0D85F43',
   [ChainId.HARMONY_TESTNET]: '',
   [ChainId.OKEX]: '',
   [ChainId.OKEX_TESTNET]: ''
@@ -88,7 +88,7 @@ export const ROUTER_ADDRESS: { [chainId in ChainId]: string } = {
   [ChainId.FUJI]: '',
   [ChainId.HECO]: '',
   [ChainId.HECO_TESTNET]: '',
-  [ChainId.HARMONY]: '',
+  [ChainId.HARMONY]: '0x90d62e06b711be223E79b9065eD52f1f2eE2db26',
   [ChainId.HARMONY_TESTNET]: '',
   [ChainId.OKEX]: '',
   [ChainId.OKEX_TESTNET]: ''
